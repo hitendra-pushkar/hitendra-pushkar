@@ -49,11 +49,19 @@ I’m a software engineering professional with **15+ years of experience** build
 
 ### 💻 Backend Development
 
-- PHP
-- Core PHP
-- Laravel
-- CodeIgniter
 - Python
+  - Django
+  - Flask
+  - Fast API
+- PHP
+  - Core PHP with MVC Architectures
+  - MVC & MVT
+    - Laravel
+    - CodeIgniter
+  - CMS's
+    - Wordpress
+    - Magento
+    - Joomla  
 - REST APIs
 - Microservice-oriented architectures
 - Third-party API Integration
