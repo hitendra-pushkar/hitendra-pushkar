@@ -8,9 +8,9 @@ I’m a software engineering professional with **15+ years of experience** build
 
 ## 👨‍💻 About Me
 
-- 🔹 **15+ years** of experience in Software Engineering
-- 🔹 **4+ years** of experience in Data Engineering
-- 🔹 Strong backend development experience with **PHP, Laravel, CodeIgniter & Python**
+- 🔹 **10+ years** of experience in Software Engineering
+- 🔹 **5+ years** of experience in Data Engineering
+- 🔹 Strong backend development experience with **Python, Django, Flask, Fast API, PHP, Laravel, CodeIgniter**
 - 🔹 Experienced in designing and building **ETL/ELT data pipelines**
 - 🔹 Hands-on experience with **Azure Data Factory, Databricks & PySpark**
 - 🔹 Experienced with **SQL, MySQL & PostgreSQL**
