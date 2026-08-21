@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hitendra Kumar
+# 👋 Hi, I'm Hitendra Kumar Pushkar
 
 ### 🚀 Data Engineer | Senior Backend Engineer | Cloud & Data Engineering
 
