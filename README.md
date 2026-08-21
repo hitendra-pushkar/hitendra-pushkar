@@ -8,15 +8,15 @@ I’m a software engineering professional with **15+ years of experience** build
 
 ## 👨‍💻 About Me
 
-🔹 **15+ years** of experience in Software Engineering
-🔹 **4+ years** of experience in Data Engineering
-🔹 Strong backend development experience with **PHP, Laravel, CodeIgniter & Python**
-🔹 Experienced in designing and building **ETL/ELT data pipelines**
-🔹 Hands-on experience with **Azure Data Factory, Databricks & PySpark**
-🔹 Experienced with **SQL, MySQL & PostgreSQL**
-🔹 Interested in **Data Engineering, Cloud, Lakehouse & GenAI architectures**
-🔹 Passionate about solving complex engineering and data problems
-🔹 Experienced in **API integration, database design and scalable application architecture**
+- 🔹 **15+ years** of experience in Software Engineering
+- 🔹 **4+ years** of experience in Data Engineering
+- 🔹 Strong backend development experience with **PHP, Laravel, CodeIgniter & Python**
+- 🔹 Experienced in designing and building **ETL/ELT data pipelines**
+- 🔹 Hands-on experience with **Azure Data Factory, Databricks & PySpark**
+- 🔹 Experienced with **SQL, MySQL & PostgreSQL**
+- 🔹 Interested in **Data Engineering, Cloud, Lakehouse & GenAI architectures**
+- 🔹 Passionate about solving complex engineering and data problems
+- 🔹 Experienced in **API integration, database design and scalable application architecture**
 
 ---
 
@@ -137,18 +137,3 @@ GenAI
   ├── Embeddings
   ├── ML Feature Engineering
   └── GenAI Data Architecture
-
-<!--
-**hitendra-pushkar/hitendra-pushkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
